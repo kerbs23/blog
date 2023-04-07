@@ -7,3 +7,20 @@ speaks to the length and role of the post.
 Title- self explanitory
 
 Quality- 1,2,3,4,5. A rating out of 5 eo
+
+
+Dio format:
+
+immage
+
+text
+
+The text is fit to the same width as the immage, and no longer then 1 paragraph.
+
+
+App format
+
+##H2s
+p text
+immages
+http://localhost:4000
